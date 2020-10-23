@@ -1,1 +1,1 @@
-https://mydeployedworker.mydomain.com <- replace everything in this file with a single link to your deployed worker.
+https://andrew-linklist-website.andrew-y-ma.workers.dev/
